@@ -13,7 +13,7 @@ namespace wGestionAnimales
 
         public override void HacerSonido()
         {
-            SoundPlayer player = new SoundPlayer(@"C:\Users\Marcela\source\repos\wGestionAnimales\sonidoLeon.wav");
+            SoundPlayer player = new SoundPlayer(@"C:\Users\Marcela\source\repos\wGestionAnimales\sonidos\leon.wav");
             player.PlaySync();
         }
     }

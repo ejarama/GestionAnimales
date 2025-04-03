@@ -1,0 +1,10 @@
+C:\Users\Marcela\source\repos\wGestionAnimales\wGestionAnimales\bin\Debug\wGestionAnimales.exe.config
+C:\Users\Marcela\source\repos\wGestionAnimales\wGestionAnimales\bin\Debug\wGestionAnimales.exe
+C:\Users\Marcela\source\repos\wGestionAnimales\wGestionAnimales\bin\Debug\wGestionAnimales.pdb
+C:\Users\Marcela\source\repos\wGestionAnimales\wGestionAnimales\obj\Debug\wGestionAnimales.csproj.AssemblyReference.cache
+C:\Users\Marcela\source\repos\wGestionAnimales\wGestionAnimales\obj\Debug\wGestionAnimales.Form1.resources
+C:\Users\Marcela\source\repos\wGestionAnimales\wGestionAnimales\obj\Debug\wGestionAnimales.Properties.Resources.resources
+C:\Users\Marcela\source\repos\wGestionAnimales\wGestionAnimales\obj\Debug\wGestionAnimales.csproj.GenerateResource.cache
+C:\Users\Marcela\source\repos\wGestionAnimales\wGestionAnimales\obj\Debug\wGestionAnimales.csproj.CoreCompileInputs.cache
+C:\Users\Marcela\source\repos\wGestionAnimales\wGestionAnimales\obj\Debug\wGestionAnimales.exe
+C:\Users\Marcela\source\repos\wGestionAnimales\wGestionAnimales\obj\Debug\wGestionAnimales.pdb

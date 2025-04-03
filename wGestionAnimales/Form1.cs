@@ -16,5 +16,23 @@ namespace wGestionAnimales
         {
             InitializeComponent();
         }
+
+        private void btnSonido_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                string tipo = cmbTipo.SelectedItem.ToString();
+                string nombre = txtNombre.Text;
+                int edad = int.Parse(txtEdad.Text);
+
+                Animal animalito = AnimalFactory.CrearAnimal(tipo, nombre, edad);
+                animalito.HacerSonido();
+            }
+            catch (Exception ex)
+            {
+
+                MessageBox.Show("Error: Se han ingresado datos inválidos" + ex.Message, "Error", MessageBoxButtons.OK);
+            }
+        }
     }
 }
