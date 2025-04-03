@@ -60,7 +60,7 @@ namespace wGestionAnimales
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1229, 654);
+            this.ClientSize = new System.Drawing.Size(1056, 602);
             this.Controls.Add(this.lblTipo);
             this.Controls.Add(this.cmbTipo);
             this.Name = "Form1";
